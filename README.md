@@ -6,19 +6,19 @@ Bu proje, YouTube'un temel işlevlerini taklit eden bir React uygulamasıdır. K
 
 Projeyi yerel ortamınıza kurmak için aşağıdaki adımları takip edebilirsiniz:
 
-### `git clone https://github.com/ahmetselimboz/react-youtube-clone.git`
+#### `git clone https://github.com/ahmetselimboz/react-youtube-clone.git`
 
 Repository'yi klonlayın.
 
-### `cd react-youtube-clone`
+#### `cd react-youtube-clone`
 
 Proje dizinine gidin.
 
-### `npm install`
+#### `npm install`
 
 Gerekli bağımlılıkları yükleyin.
 
-### `npm start`
+#### `npm start`
 
 Projeyi başlatın.\
 Tarayıcınızda [http://localhost:3000](http://localhost:3000) adresine giderek projeyi görüntüleyebilirsiniz.
