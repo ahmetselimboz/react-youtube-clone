@@ -57,10 +57,6 @@ Bu projede kullanılan başlıca teknolojiler:
 - [Axios](https://axios-http.com/)
 - [Taiwind](https://tailwindcss.com/)
 
-## Katkıda Bulunanlar
+## Ekran Görüntüsü
 
-Bu projeye katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya bir issue açın.
-
-## Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
+![Uygulama Ekran Görüntüsü](https://image.ahmetselimboz.com.tr/mybucket/react_youtube_clone_github_screenshot.png)
