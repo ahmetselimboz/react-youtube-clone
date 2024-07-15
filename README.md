@@ -33,6 +33,21 @@ Uygulamayı başlattıktan sonra, tarayıcınızda `http://localhost:3000` adres
 - **Video İzleme:** Seçilen videoları uygulama içinde izleyebilir.
 - **İlgili Videolar:** İzlenen videoya benzer videolar önerilir.
 
+## Kullanılan Paketler
+
+Bu projede kullanılan başlıca paketler:
+
+- `axios`
+- `moment`
+- `react`
+- `react-dom`
+- `react-scripts`
+- `@reduxjs/toolkit`
+- `react-redux`
+- `react-router-dom`
+- `tailwindcss`
+- `react-player`
+
 ## Kullanılan Teknolojiler
 
 Bu projede kullanılan başlıca teknolojiler:
