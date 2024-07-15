@@ -47,15 +47,17 @@ Bu projede kullanılan başlıca paketler:
 - `react-router-dom`
 - `tailwindcss`
 - `react-player`
+- `tailwindcss`
 
 ## Kullanılan Teknolojiler
 
 Bu projede kullanılan başlıca teknolojiler:
 
 - [React](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
 - [YouTube Data API](https://rapidapi.com/ytdlfree/api/youtube-v31)
 - [Axios](https://axios-http.com/)
-- [Taiwind](https://tailwindcss.com/)
+- [Tailwindcss](https://tailwindcss.com/)
 
 ## Ekran Görüntüsü
 
