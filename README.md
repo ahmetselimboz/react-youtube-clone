@@ -1,41 +1,41 @@
 # React YouTube Clone
 
-Bu proje, YouTube'un temel işlevlerini taklit eden bir React uygulamasıdır. Kullanıcılar, video araması yapabilir, video izleyebilir ve ilgili videoları görüntüleyebilirler.
+This project is a React application that mimics the basic functionalities of YouTube. Users can search for videos, watch videos, and view related videos.
 
-## Kurulum
+## Installation
 
-Projeyi yerel ortamınıza kurmak için aşağıdaki adımları takip edebilirsiniz:
+To set up the project locally, follow these steps:
 
 #### `git clone https://github.com/ahmetselimboz/react-youtube-clone.git`
 
-Repository'yi klonlayın.
+Clone the repository.
 
 #### `cd react-youtube-clone`
 
-Proje dizinine gidin.
+Navigate to the project directory.
 
 #### `npm install`
 
-Gerekli bağımlılıkları yükleyin.
+Install the necessary dependencies.
 
 #### `npm start`
 
-Projeyi başlatın.\
-Tarayıcınızda [http://localhost:3000](http://localhost:3000) adresine giderek projeyi görüntüleyebilirsiniz.
+Start the project.\
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## Kullanım
+## Usage
 
-Uygulamayı başlattıktan sonra, tarayıcınızda `http://localhost:3000` adresine giderek projeyi görüntüleyebilirsiniz.
+After starting the application, you can view the project by navigating to `http://localhost:3000` in your browser.
 
-## Özellikler
+## Features
 
-- **Video Arama:** Kullanıcılar, anahtar kelimeler ile video arayabilir.
-- **Video İzleme:** Seçilen videoları uygulama içinde izleyebilir.
-- **İlgili Videolar:** İzlenen videoya benzer videolar önerilir.
+- **Video Search:** Users can search for videos using keywords.
+- **Video Playback:** Selected videos can be watched within the application.
+- **Related Videos:** Videos similar to the watched video are suggested.
 
-## Kullanılan Paketler
+## Used Packages
 
-Bu projede kullanılan başlıca paketler:
+The main packages used in this project are:
 
 - `axios`
 - `moment`
@@ -49,9 +49,9 @@ Bu projede kullanılan başlıca paketler:
 - `react-player`
 - `tailwindcss`
 
-## Kullanılan Teknolojiler
+## Used Technologies
 
-Bu projede kullanılan başlıca teknolojiler:
+The main technologies used in this project are:
 
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
@@ -59,6 +59,14 @@ Bu projede kullanılan başlıca teknolojiler:
 - [Axios](https://axios-http.com/)
 - [Tailwindcss](https://tailwindcss.com/)
 
-## Ekran Görüntüsü
+## Screenshot
 
-![Uygulama Ekran Görüntüsü](https://image.ahmetselimboz.com.tr/mybucket/react_youtube_clone_github_screenshot.png)
+![Application Screenshot](https://image.ahmetselimboz.com.tr/mybucket/react_youtube_clone_github_screenshot.png)
+
+## Contributors
+
+If you would like to contribute to this project, please send a pull request or open an issue.
+
+## License
+
+This project is licensed under the MIT License. For more information, see the `LICENSE` file.
