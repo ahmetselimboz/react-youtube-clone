@@ -1,3 +1,5 @@
+![Application Screenshot](https://image.ahmetselimboz.com.tr/image/Youtube_Clone_Thumbnail.jpg)
+
 # React YouTube Clone
 
 This project is a React application that mimics the basic functionalities of YouTube. Users can search for videos, watch videos, and view related videos.
@@ -61,7 +63,7 @@ The main technologies used in this project are:
 
 ## Screenshot
 
-![Application Screenshot](https://image.ahmetselimboz.com.tr/image/Youtube_Clone_Thumbnail.jpg)
+![Application Screenshot](https://image.ahmetselimboz.com.tr/mybucket/react_youtube_clone_github_screenshot.png)
 
 ## Contributors
 
