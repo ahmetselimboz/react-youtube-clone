@@ -61,7 +61,7 @@ The main technologies used in this project are:
 
 ## Screenshot
 
-![Application Screenshot](https://image.ahmetselimboz.com.tr/mybucket/react_youtube_clone_github_screenshot.png)
+![Application Screenshot](https://image.ahmetselimboz.com.tr/image/Youtube_Clone_Thumbnail.jpg)
 
 ## Contributors
 
