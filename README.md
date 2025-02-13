@@ -1,4 +1,4 @@
-![Application Screenshot](https://image.ahmetselimboz.com.tr/image/Youtube_Clone_Thumbnail.jpg)
+![Application Screenshot](https://cdn.ahmetselimboz.com/images/Youtube_Clone_Thumbnail.jpg)
 
 # React YouTube Clone
 
